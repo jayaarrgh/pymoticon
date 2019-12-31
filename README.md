@@ -2,275 +2,115 @@
 A simple python module containing a bunch of unicode based emoticon.
 Based on: https://github.com/bfuerea/ascii-emoji
 
-```
-ʘ‿ʘ
-Innocent face 
-
-ಠ_ಠ
-Reddit disapproval face 
-
-(╯°□°）╯︵ ┻━┻
-Table Flip / Flipping Table 
-
-┬─┬﻿ ノ( ゜-゜ノ)
-Put the table back
-
-┬─┬⃰͡ (ᵔᵕᵔ͜ )
-Tidy up / dust the table
-
-┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
-Double Flip / Double Angry
-
-ლ(｀ー´ლ)
-Fisticuffs
-
-ʕ•ᴥ•ʔ
-cute bear 
-
-ʕᵔᴥᵔʔ
-squinting bear
-
-(｡◕‿◕｡)
-cute face with big eyes 
-
-（　ﾟДﾟ）
-surprised / loudmouthed 
-
-¯\_(ツ)_/¯
-shrug face  
-
-¯\(°_o)/¯
-meh
-
-(`･ω･´)
-feel perky  
-
-(╬ ಠ益ಠ)
-angry face
-
-☜(⌒▽⌒)☞
-excited 
-
-ε=ε=ε=┌(;*´Д`)ﾉ
-running 
-
-ヽ(´▽`)/
-happy face  
-
-ヽ(´ー｀)ノ
-basking in glory  
-
-ᵒᴥᵒ#
-kitty emote
-
-V●ᴥ●V
-fido
-
-ฅ^•ﻌ•^ฅ
-meow
-
-（ ^_^）o自自o（^_^ ）
-cheers  
-
-ಠ‿ಠ
-devious smile
-
-( ͡° ͜ʖ ͡°)
-4chan emoticon  
-
-ಥ_ಥ
-crying face 
-
-ಥ﹏ಥ
-breakdown
-
-٩◔̯◔۶
-disagree
-
-ᕙ(⇀‸↼‶)ᕗ
-flexing 
-
-ᕦ(ò_óˇ)ᕤ
-do you even lift bro?
-
-⊂(◉‿◉)つ
-kirby
-
-q(❂‿❂)p
-tripping out  
-
-⊙﹏⊙
-discombobulated 
-
-¯\_(⊙︿⊙)_/¯
-sad and confused  
-
-°‿‿°
-japanese lion face
-
-¿ⓧ_ⓧﮌ
-confused  
-
-(⊙.☉)7
-confused scratch
-
-(´･_･`)
-worried
-
-щ（ﾟДﾟщ）
-dear god why  
-
-٩(͡๏_๏)۶
-staring 
-
-ఠ_ఠ
-pretty eyes
-
-ᕕ( ᐛ )ᕗ
-strut
-
-(⊙_◎)
-zoned
-
-ミ●﹏☉ミ
-crazy
-
-༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
-trolling
-
-ヽ༼ ಠ益ಠ ༽ﾉ
-angry troll
-
-t(-_-t)
-fuck it
-
-(ಥ⌣ಥ)
-sad face
-
-(づ￣ ³￣)づ
-hugger
-
-(づ｡◕‿‿◕｡)づ
-stranger danger
-
-(ノಠ ∩ಠ)ノ彡( \o°o)\
-flip friend
-
-｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
-cry face
-
-༼ ༎ຶ ෴ ༎ຶ༽
-cry troll
-
-“ヽ(´▽｀)ノ”
-TGIF
-
-┌(ㆆ㉨ㆆ)ʃ
-dancing 
-
-눈_눈
-sleepy
-
-( ఠൠఠ )ﾉ
-angry birds
-
-乁( ◔ ౪◔)「      ┑(￣Д ￣)┍
-no support 
-
-(๑•́ ₃ •̀๑) 
-shy 
-
-⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
-fly away
-
-◔_◔
-careless
-
-♥‿♥
-love
-
-ԅ(≖‿≖ԅ)
-Touchy Feely
-
-( ˘ ³˘)♥ 
-Kissing
-
-( ˇ෴ˇ )
-shark face / jagged mustache
-
-ヾ(-_- )ゞ
-emo dance 
-
-♪♪ ヽ(ˇ∀ˇ )ゞ
-dance 
-
-ヾ(´〇`)ﾉ♪♪♪
-opera
-
-ʕ •́؈•̀ ₎
-winnie the pooh
-
-ლ(•́•́ლ)
-boxing / fight
-  
-{•̃_•̃}
-robot
-
-(ᵔᴥᵔ)
-seal
-
-(Ծ‸ Ծ)
-questionable / dislike
-
-(•̀ᴗ•́)و ̑̑
-Winning!
-
-[¬º-°]¬
-Zombie
-
-(☞ﾟヮﾟ)☞
-pointing
-
-''⌐(ಠ۾ಠ)¬'''
-chasing / running away
-
-(っ•́｡•́)♪♬
-whistling / music
-
-(҂◡_◡) 
-injured
-
-ƪ(ړײ)‎ƪ​​
-creeper
-
-⥀.⥀
-eye roll
-
-ح˚௰˚づ 
-flying
-
-♨_♨
-things that can't be unseen
-
-(._.)
-looking down
-
-(⊃｡•́‿•̀｡)⊃
-im a hugger
-
-(∩｀-´)⊃━☆ﾟ.*･｡ﾟ
-wizard
-
-(っ˘ڡ˘ς)
-yum
-
-( ఠ ͟ʖ ఠ)
-judging
-
-( ͡ಠ ʖ̯ ͡ಠ)
-tired / older
-
-( ಠ ʖ̯ ಠ)
-dislike / depressed
-
+```python
+angry_birds="( ఠൠఠ )ﾉ"
+angry_face="(╬ ಠ益ಠ)"
+angry_troll="ヽ༼ ಠ益ಠ ༽ﾉ"
+at_what_cost="ლ(ಠ益ಠლ)"
+barf="(´ж｀ς)"
+basking_in_glory="ヽ(´ー｀)ノ"
+boxing="ლ(•́•́ლ)"
+breakdown="ಥ﹏ಥ"
+careless="◔_◔"
+chan_emoticon="( ͡° ͜ʖ ͡°)"
+cheers="（ ^_^）o自自o（^_^ ）"
+chicken="ʚ(•｀"
+confused="¿ⓧ_ⓧﮌ"
+confused_scratch="(⊙.☉)7"
+crazy="ミ●﹏☉ミ"
+creeper="ƪ(ײړ)ƪ"
+cry_face="｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡"
+cry_troll="༼ ༎ຶ ෴ ༎ຶ༽"
+crying_face="ಥ_ಥ"
+cute_bear="ʕ•ᴥ•ʔ"
+cute_face_with_big_eyes="(｡◕‿◕｡)"
+dab="ヽ( •_)ᕗ"
+dance="♪♪ ヽ(ˇ∀ˇ )ゞ"
+dancing="┌(ㆆ㉨ㆆ)ʃ"
+dear_god_why="щ（ﾟДﾟщ）"
+devious_smile="ಠ‿ಠ "
+disagree="٩◔̯◔۶"
+discombobulated="⊙﹏⊙"
+dislike="( ಠ ʖ̯ ಠ)"
+do_you_even_lift_bro=" ᕦ(ò_óˇ)ᕤ"
+double_Flip="┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻"
+emo_dance="ヾ(-_- )ゞ"
+excited="☜(⌒▽⌒)☞"
+exorcism="ح(•̀ж•́)ง †"
+eye_roll="⥀.⥀"
+feel_perky="(`･ω･´)"
+fido="V•ᴥ•V"
+fight="(ง'̀-'́)ง"
+fisticuffs="ლ(｀ー´ლ)"
+flexing="ᕙ(⇀‸↼‶)ᕗ"
+flip_friend="(ノಠ ∩ಠ)ノ彡( \o°o)\\"
+fly_away="⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾"
+flying="ح˚௰˚づ"
+fuck_it="t(___t)"
+fuck_off="(° ͜ʖ͡°)╭∩╮"
+gtfo_Bear="ʕ •`ᴥ•´ʔ"
+happy_face="ヽ(´▽`)/"
+happy_hug="\(ᵔᵕᵔ)/"
+hitchhiking="(งツ)ว"
+hugger="(づ￣ ³￣)づ"
+im_a_hugger="(⊃｡•́‿•̀｡)⊃"
+injured="(҂◡_◡)"
+innocent_face="ʘ‿ʘ"
+japanese_lion_face="°‿‿°"
+judgemental="{ಠʖಠ}"
+judging="( ఠ ͟ʖ ఠ)"
+kirby="⊂(◉‿◉)つ"
+kissing="( ˘ ³˘)♥"
+kitty_emote="ᵒᴥᵒ"
+listening_to_headphones="◖ᵔᴥᵔ◗ ♪ ♫"
+looking_down="(._.)"
+love="-`ღ´-"
+love="♥‿♥"
+meh="¯\(°_o)/¯"
+meow="ฅ^•ﻌ•^ฅ"
+no_support="乁( ◔ ౪◔)「      ┑(￣Д ￣)┍"
+opera="ヾ(´〇`)ﾉ♪♪♪"
+peepers="ಠಠ"
+pointing="(☞ﾟヮﾟ)☞"
+pretty_eyes="ఠ_ఠ"
+put_the_table_back="┬─┬ ノ( ゜-゜ノ)"
+questionable="(Ծ‸ Ծ)"
+reddit_disapproval_face="ಠ_ಠ"
+resting_my_eyes="ᴖ̮ ̮ᴖ"
+robot="{•̃_•̃}"
+running="ε=ε=ε=┌(;*´Д`)ﾉ"
+sad_and_confused="¯\_(⊙︿⊙)_/¯"
+sad_and_crying="(ᵟຶ︵ ᵟຶ)"
+sad_face="(ಥ⌣ಥ)"
+satisfied="(◠﹏◠)"
+seal="(ᵔᴥᵔ)"
+shark_face="( ˇ෴ˇ )"
+shrug_face="¯\_(ツ)_/¯"
+shy="(๑•́ ₃ •̀๑)"
+sleepy="눈_눈"
+smiley_toast="ʕʘ̅͜ʘ̅ʔ"
+squinting_bear="ʕᵔᴥᵔʔ"
+staring="٩(๏_๏)۶"
+stranger_danger="(づ｡◕‿‿◕｡)づ"
+strut="ᕕ( ᐛ )ᕗ"
+stunna_shades="(っ▀¯▀)つ"
+surprised="（　ﾟДﾟ）"
+table_flip="(╯°□°）╯︵ ┻━┻"
+taking_a_dump="(⩾﹏⩽)"
+tgif="“ヽ(´▽｀)ノ”"
+things_that_cant_be_unseen="♨_♨"
+tidy_up="┬─┬⃰͡ (ᵔᵕᵔ͜ )"
+tired="( ͡ಠ ʖ̯ ͡ಠ)"
+touchy_feely="ԅ(≖‿≖ԅ)"
+tripping_out="q(❂‿❂)p"
+trolling="༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽"
+wave_dance="~(^-^)~"
+whistling="(っ•́｡•́)♪♬"
+winnie_the_pooh="ʕ •́؈•̀)"
+winning="(•̀ᴗ•́)و ̑̑"
+wizard="(∩｀_´)⊃━☆ﾟ.*･｡ﾟ"
+worried="(´･_･`)"
+yum="(っ˘ڡ˘ς)"
+zombie="[¬º-°]¬"
+zoned="(⊙_◎)"
 ```
